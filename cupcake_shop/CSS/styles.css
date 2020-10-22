@@ -1,0 +1,28 @@
+div.Nav {
+    position: sticky;
+    top: 0;
+    background-color:#7EA8BE;
+    padding: 20px;
+    font-size: 15px;
+}
+img {width: auto;
+    margin: 10px;
+   
+}
+div.Img1{float: left;
+
+}
+div.Img2{float: right;
+
+}
+div.Img3{float: left;
+
+}
+div.Img4{float: right;
+
+}
+h2 {color:  #28536B; font-family: 'Roboto condensed';}
+a {color:  #28536B; font-family: 'Roboto condensed';}
+body {background-color: #F6F0ED ;}
+li {color: #28536B; font-family: 'Roboto condensed';display: inline;}
+p {color: #28536B; font-family: 'sansita swashed light';}
